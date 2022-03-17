@@ -1,7 +1,7 @@
 # Assembly-Language
 This is a project consisting of Assembly Language x86-64 using Ubuntu
 ## Table of Contents
-* [Duplcate Finder](#Duplicate Finder)
+* [Duplicate Finder](#Duplicate Finder)
 * [print_stars_based_on_height](#print_stars_based_on_height)
 * [fancy_printout](#fancy_printout)
 
