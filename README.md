@@ -1,5 +1,10 @@
 # Assembly-Language
 This is a project consisting of Assembly Language x86-64 using Ubuntu
+---
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width"40" height="40"/>
+</div>
+
 ## Table of Contents
 * [print_stars_based_on_height](#print_stars_based_on_height)
 * [fancy_printout](#fancy_printout)
