@@ -4,6 +4,7 @@ This is a project consisting of Assembly Language x86-64 using Ubuntu
 * [print_stars_based_on_height](#print_stars_based_on_height)
 * [fancy_printout](#fancy_printout)
 * [duplicate_finder](#duplicate_finder)
+
 ### print_stars_based_on_height
 This file uses places and Asterik in a 'db' register, and uses that
 register to print stars based on the height set by the r13 register.
