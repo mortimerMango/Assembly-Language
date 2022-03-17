@@ -14,11 +14,12 @@ print_stars_based_on_height
 This file uses places and Asterik in a 'db' register, and uses that
 register to print stars based on the height set by the r13 register.
 EX: r13 set to 5 prints out
-*
-**
-***
-****
-*****
+
+    *
+    **
+    ***
+    ****
+    *****
 
 ********************************************************************
 fancy_printout
