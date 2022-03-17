@@ -26,14 +26,16 @@ fancy_printout
 This uses c-style strings to print 'Hello World' diagonally using
 nested loops.
 EX: 
-h
- e
-  l
-   l
-    o
-     
-      w
-       o
-        r
-         l
-          d
+
+    h
+     e
+      l
+       l
+        o
+         
+          w
+           o
+            r
+             l
+              d
+
