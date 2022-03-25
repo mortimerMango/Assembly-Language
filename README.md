@@ -1,4 +1,4 @@
-# Assembly-Language <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width"40" height="40"/>
+# Assembly-Language <div><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width"40" height="40"/></div>
 #### Projects consisting of Assembly Language x86-64 with Ubuntu
 
 ## Table of Contents
