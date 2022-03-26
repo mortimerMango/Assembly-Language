@@ -1,13 +1,10 @@
 # Assembly-Language 
-
 #### Projects consisting of Assembly Language x86-64 with Ubuntu
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width"40" height="40"/>
-
 ## Table of Contents
-* [print_stars_based_on_height](#print-stars-based-on-height)
-* [fancy_printout](#fancy-printout)
-* [duplicate_finder](#duplicate-finder)
+* [print_stars_based_on_height](#print_stars_based_on_height)
+* [fancy_printout](#fancy_printout)
+* [duplicate_finder](#duplicate_finder)
 
 ### print_stars_based_on_height
 This file uses places and Asterik in a 'db' register, and uses that
